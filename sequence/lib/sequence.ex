@@ -1,6 +1,6 @@
 defmodule Sequence do
   @moduledoc """
-  Documentation for `Sequence`.
+  Documentation for Sequence.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Sequence do
 
   ## Examples
 
-      iex> Sequence.hello()
+      iex> Sequence.hello
       :world
 
   """
