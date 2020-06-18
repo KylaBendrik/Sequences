@@ -25,6 +25,7 @@ defmodule Sequence.MixProject do
 
   defp deps do
     [
+      {:distillery, "~> 2.0"}
     ]
   end
 end
